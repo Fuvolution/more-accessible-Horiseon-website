@@ -25,7 +25,7 @@ body {
     color: #d9dcd6;
 }
 
-/* This is the CSS rule for nav and its subelements! */
+/* This is the CSS rule for displaying and formatting the nav and its subelements! */
 nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -79,6 +79,8 @@ p {
     margin-left: 20px;
 }
 
+/* These are the CSS rules for formatting and displaying the content 
+discussing about the benefits and its subelements! */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -192,6 +194,7 @@ p {
     font-size: 36px;
 }
 
+/* These footer selectors help format and display the footer! */
 .footer {
     padding: 30px;
     clear: both;
