@@ -9,7 +9,7 @@ I refactored the starter code, so the Horiseon website has more accessibility.
 * Elements follow semantic HTML and CSS structure. 
 
 ## Image of the Deployed Application
-![Horiseon Website](https://github.com/Fuvolution/more-accessible-Horiseon-website/blob/main/Develop/assets/images/accessible-horiseon-website.PNG)
+![Horiseon Website](https://github.com/Fuvolution/more-accessible-Horiseon-website/blob/main/assets/images/accessible-horiseon-website.PNG)
 
 ## URL to Deployed Application
 Link to Deployed Application: [Horiseon Website Deployed](https://fuvolution.github.io/more-accessible-Horiseon-website/)
