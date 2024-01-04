@@ -71,7 +71,8 @@ p {
     font-size: 16px;
 }
 
-.hero {
+/* This is the CSS rule that helps display the large image on the webpage! */
+figure {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
